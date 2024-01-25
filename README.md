@@ -1,5 +1,5 @@
 
-# Loan Prediction Model using Machine Learning
+# Face Detection
 
 Face detection is a crucial technology with numerous applications across various fields. Here are several reasons why face detection is widely used:
 
@@ -34,15 +34,14 @@ Employee Attendance: Face detection is used for employee attendance tracking, en
 Security Access: Secure areas within organizations may use face detection for access control.
 
 # Requirements
+Best to run in Python version 3.7
 ```bash
-  pip install pandas
-  pip install numpy
-  pip install matplotlib.pyplot
-  pip install plotly
-  pip install seaborn
-  pip install streamlit
-  pip install PIL
-  pip install dtale
+  pip install opencv-python
+  pip install dlib
+  pip install face_recognition
+  pip install tensorflow
+  pip install torch torchvision
+  pip install mtcnn
 ```
 
 ## Installation
@@ -53,14 +52,8 @@ Security Access: Secure areas within organizations may use face detection for ac
 
 --Run following command.
 
-
-
 ```bash
   pip install -r requirements.txt
 
 ```
 
---To run app, write following command in CMD.
-
-```bash
-  streamlit run Sentiment_Analysis_app.py
