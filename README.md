@@ -47,6 +47,4 @@ Best to run in Python version 3.7
 ## Face Detection Working Image
 
 
-<img width="481" alt="Screenshot 2024-01-25 093701" src="https://github.com/sanjayravichander/Face-Detection/assets/86998084/10a0d6ef-8935-4034-9c75-f62b8e622a26">
-
-
+<img width="387" alt="Screenshot 2024-01-25 093634" src="https://github.com/sanjayravichander/Face-Detection/assets/86998084/9aa78d47-d72a-4912-a9b3-a79968d1084e">
