@@ -44,16 +44,9 @@ Best to run in Python version 3.7
   pip install mtcnn
 ```
 
-## Installation
+## Face Detection Working Image
 
---Clone my repository.
 
---Open CMD in working directory.
+<img width="481" alt="Screenshot 2024-01-25 093701" src="https://github.com/sanjayravichander/Face-Detection/assets/86998084/10a0d6ef-8935-4034-9c75-f62b8e622a26">
 
---Run following command.
-
-```bash
-  pip install -r requirements.txt
-
-```
 
